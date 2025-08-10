@@ -1,5 +1,5 @@
  `«Ask me anything, I'm tired already.»` </br>
-![](https://files.catbox.moe/ny1t9v.PNG) </br>
+> ![](https://files.catbox.moe/ny1t9v.PNG) </br>
 <p align="center"> 
 ◞ ♡ 𝙠𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙚 ． she </br> 
  ———— ₊ ⁺ ⯎ ⁺ ₊ ———— </br>
@@ -8,7 +8,7 @@
 
 
 
-⠀⠀    ☆     (    星星⠀ )   ...
+⠀⠀        ✦ ᴗ ᴗ⠀ )   ...
 
               𝒲𝖾 𝗐𝖾𝗋𝖾 𝗍𝗈𝗈 𝖼𝗅𝗈𝗌𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗌𝗍𝖺𝗋𝗌
 
@@ -19,6 +19,6 @@
 
 
  `«Everyone has the wrong idea. I have no talent at all.»` </br>
-![](https://files.catbox.moe/mlmsaz.PNG)
-<img src="https://komarev.com/ghpvc/?username=tonightyouaremine&style=pixel" />
+> ![](https://files.catbox.moe/mlmsaz.PNG)
+ <img src="https://komarev.com/ghpvc/?username=tonightyouaremine&style=pixel" />
 </p>
