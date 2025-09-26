@@ -1,24 +1,16 @@
- `«Ask me anything, I'm tired already.»` </br>
-> ![](https://files.catbox.moe/xojz3d.png) </br>
-<p align="center"> 
-◞ ♡ 𝙠𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙚 ． she </br> 
- ———— ₊ ⁺ ⯎ ⁺ ₊ ———— </br>
-</p> 
+<img width="1280" height="513" alt="image" src="https://github.com/user-attachments/assets/9fd95f08-5802-4903-b311-564b93b5e886" /> </br>
 
 
-
-
-⠀⠀        ✦ ᴗ ᴗ⠀ )   ...
-
-              𝒲𝖾 𝗐𝖾𝗋𝖾 𝗍𝗈𝗈 𝖼𝗅𝗈𝗌𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗌𝗍𝖺𝗋𝗌
-
-            𝖨 𝗇𝖾𝗏𝖾𝗋 𝗄𝗇𝖾𝗐 𝗌𝗈𝗆𝖾𝖻𝗈𝖽𝗒 𝗅𝗂𝗄𝖾 𝗒𝗈𝗎
-
-                            — 𝗋𝖾𝖿𝗅𝖾𝖼𝗍𝗂𝗈𝗇𝗌
-
-
-
- `«Everyone has the wrong idea. I have no talent at all.»` </br>
-> ![](https://files.catbox.moe/mkgspr.PNG)
- <img src="https://komarev.com/ghpvc/?username=tonightyouaremine&style=pixel" />
+<p align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9e24827d-fdd2-4969-a2fd-00007d84309a" /> </br>
+text text
 </p>
+<p align="center">
+<img width="513" height="341" alt="image" align="center" src="https://github.com/user-attachments/assets/a13910b6-1119-48ac-9aa5-fbeeb9387238" />
+</p>
+<p align="center">
+ text text
+</p>
+<img width="1280" height="513" alt="image" src="https://github.com/user-attachments/assets/d9a5b4ff-2971-493a-a8e2-e62bf1802e18" /> </br>
+
+ <img src="https://komarev.com/ghpvc/?username=tonightyouaremine&style=pixel" /> </br>
