@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<img width="500" height="560" alt="sigzaigh1" src="https://github.com/user-attachments/assets/b90bbfa5-276b-459b-af15-11b568d94574" />
+<img width="500" height="560" alt="sigzaigh1" src="https://github.com/user-attachments/assets/13d44613-eb0c-4b8c-a952-4615be4e0aa0" />
+
  </br>
 text text
 </p>
