@@ -1,7 +1,8 @@
 
 
 <p align="center">
-<img width="500" height="560" alt="sigzaigh1" src="https://github.com/user-attachments/assets/13d44613-eb0c-4b8c-a952-4615be4e0aa0" />
+<img width="500" height="560" alt="cakey3" src="https://github.com/user-attachments/assets/ede1c41c-60b8-4aa0-9406-def64dfcd6a6" />
+
  </br>
 ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 </br>
 ────── .✦ </br>
@@ -12,7 +13,8 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. <
 ㅤㅤ  </br>
 </p>
 <p align="center">
-<img width="513" height="341" alt="image" align="center" src="https://github.com/user-attachments/assets/a13910b6-1119-48ac-9aa5-fbeeb9387238" />
+<img width="490" height="305" alt="ribbons" src="https://github.com/user-attachments/assets/d4b35b84-4037-461a-92fa-05bbecab77b2" />
+
 </p>
 
 
