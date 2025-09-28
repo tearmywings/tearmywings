@@ -20,7 +20,7 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. <
 
 
 <p align="center">
- m𝖺𝗍𝖼𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 @bullshit ♡
+ m𝖺𝗍𝖼𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 @bulIshit ♡
 </p>
 
 
