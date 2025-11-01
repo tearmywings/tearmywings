@@ -4,7 +4,7 @@
 <img width="500" height="560" alt="cakey3" src="https://github.com/user-attachments/assets/ede1c41c-60b8-4aa0-9406-def64dfcd6a6" />
 
  </br>
-ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 </br>
+ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 𐕣 </br>
 ────── .✦ </br>
 r𝖾𝖺𝖽 𝗋𝖾𝗇𝗍𝗋𝗒.𝖼𝗈 𝗉𝖺𝗀𝖾 byi. </br>
 i 𝖻𝗅𝗈𝖼𝗄 𝖺𝗇𝗇𝗈𝗒𝗂𝗇𝗀 𝗉𝖾𝗈𝗉𝗅𝖾. </br>
