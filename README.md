@@ -21,7 +21,9 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. <
 
 <p align="center">
  m𝖺𝗍𝖼𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 @buIlshit ♡
+</p> 
+
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=tearmywings&color=927F8D&style=pixel" /> </br>
 </p>
-
-
- <img src="https://komarev.com/ghpvc/?username=tonightyouaremine&style=pixel" /> </br>
