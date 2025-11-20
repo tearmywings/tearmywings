@@ -27,8 +27,3 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. <
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=tearmywings&color=927F8D&style=pixel" /> </br>
 </p>
-
-<img width="490" height="228" alt="image" src="https://github.com/user-attachments/assets/047922d6-8a7d-4a09-a03e-ccb5fcae17db" />
-
-<img width="490" height="228" alt="image" src="https://github.com/user-attachments/assets/1e36d7f0-9e01-4345-ad56-42518aa9cd0e" />
-working on new theme
