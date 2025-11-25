@@ -12,15 +12,15 @@ b𝗅𝖺𝖼𝗄𝗐𝖺𝗌𝗁𝗂𝗇𝗀 & 𝗍𝗋𝖺𝗇𝗌 hc𝗌 dni.
 s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. </br>
 ㅤㅤ  </br>
 </p>
+
 <p align="center">
-<img width="490" height="305" alt="ribbons" src="https://github.com/user-attachments/assets/d4b35b84-4037-461a-92fa-05bbecab77b2" />
+<img src="https://files.catbox.moe/1ernw7.png">
 
 </p>
 
 
-
 <p align="center">
- m𝖺𝗍𝖼𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 @buIlshit ♡
+ txtxtxt
 </p> 
 
 
