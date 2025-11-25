@@ -14,16 +14,20 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒. <
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/1ernw7.png">
-
+ <img src="https://komarev.com/ghpvc/?username=tearmywings&color=AF8FDA&style=for-the-badge" /> </br>
 </p>
-
 
 <p align="center">
  txtxtxt
 </p> 
 
-
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=tearmywings&color=927F8D&style=pixel" /> </br>
+<img src="https://files.catbox.moe/ddsuys.png">
+
 </p>
+
+
+
+
+
+
