@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://files.catbox.moe/1b9dq2.png"> </br>
-![](https://files.catbox.moe/87n7zr.PNG)
+<img src="https://files.catbox.moe/87n7zr.PNG">
  </br>
 ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 𐕣 </br>
 ────── .✦ </br>
