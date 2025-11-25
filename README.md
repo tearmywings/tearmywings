@@ -1,8 +1,8 @@
 
 
 <p align="center">
-<img width="500" height="560" alt="cakey3" src="https://github.com/user-attachments/assets/ede1c41c-60b8-4aa0-9406-def64dfcd6a6" />
-
+![](https://files.catbox.moe/1b9dq2.png) </br>
+![](https://files.catbox.moe/87n7zr.PNG)
  </br>
 ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 𐕣 </br>
 ────── .✦ </br>
