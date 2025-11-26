@@ -1,8 +1,8 @@
 
 
 <p align="center">
-<img src="https://files.catbox.moe/1b9dq2.png" width="800"> </br>
-<img src="https://files.catbox.moe/87n7zr.PNG" width="800">
+<img src="https://files.catbox.moe/1b9dq2.png" width="300"> </br>
+<img src="https://files.catbox.moe/87n7zr.PNG" width="300">
  </br>
  <br><br>
 ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 𐕣 </br>
@@ -25,16 +25,15 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒.</
  <p align="center">
  <img src="https://files.catbox.moe/ybd0i3.png" width="150">
 </p> 
-<div align="center">
-<hr>
+
 </div>
 <p align="center">
  <b> INFOPAGES (wip)</b> </br>
- trans 'hcs' . racebending . canonology
+ 𝗍𝗋𝖺𝗇𝗌 ‘𝗁𝖼𝗌’ . 𝗋𝖺𝖼𝖾𝖻𝖾𝗇𝖽𝗂𝗇𝗀 . 𝖼𝖺𝗇𝗈𝗇𝗈𝗅𝗈𝗀𝗒
  </p>
  <br>
 <p align="center">
-<img src="https://files.catbox.moe/ddsuys.png" width="800">
+<img src="https://files.catbox.moe/ddsuys.png" width="300">
 
 </p>
 
