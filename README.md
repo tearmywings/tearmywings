@@ -19,7 +19,7 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒.</
 </p>
 <br>
 <p align="center">
- <b> <a href="https://rentry.co/pt-dni">DNI</a> </b> . <b> <a href="https://rentry.co/pt-byi">BYI</a> </b>
+ <b> <a href="https://rentry.co/eng-dni">DNI</a> </b> . <b> <a href="https://rentry.co/eng-byi">BYI</a> </b>
  </br>
 </p>
  <p align="center">
