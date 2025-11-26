@@ -1,8 +1,8 @@
 
 
 <p align="center">
-<img src="https://files.catbox.moe/1b9dq2.png"> </br>
-<img src="https://files.catbox.moe/87n7zr.PNG">
+<img src="https://files.catbox.moe/1b9dq2.png" width="800"> </br>
+<img src="https://files.catbox.moe/87n7zr.PNG" width="800">
  </br>
  <br><br>
 ᥫ᭡.ㅤ𝓚𝖺𝗍𝗁𝖾𝗋𝗂𝗇𝖾 𐕣 </br>
@@ -34,7 +34,7 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒.</
  </p>
  <br>
 <p align="center">
-<img src="https://files.catbox.moe/ddsuys.png">
+<img src="https://files.catbox.moe/ddsuys.png" width="800">
 
 </p>
 
