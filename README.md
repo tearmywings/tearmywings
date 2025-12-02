@@ -15,7 +15,7 @@ s𝗒𝗌𝗍𝖾𝗆 & 𝖺𝗀𝖾𝗋𝖾 𝖿𝗋𝗂𝖾𝗇𝖽𝗅𝗒.</
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=k09bztyy9uwd67p5nwja7q8sm&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=455f44&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=k09bztyy9uwd67p5nwja7q8sm&cover_image=false&theme=novatorem&show_offline=true&background_color=af8fda&interchange=false&profanity=false&bar_color=af8fda&bar_color_cover=false">
   </a>
 </p>
 <p align="center">
